@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <title> Libreria</title>
+        <link rel="stylesheet" type="text/css" href="libreriaflex.css">
+    </head>
+<body>
+    <div id="header">
+    <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Catalogo</a></li>
+          <li><a href="#">Contatti</a></li>
+        </ul>
+      </nav>
+    </div>
+ <div class="container"> <!-- apertura div container -->
+    <div class="book"> <!--apertura div book-->
+      <h2> arte</h2>  
+        <img src="arte.png">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, nostrum impedit eius perferendis aliquam, sunt id illum atque dolor eligendi iste illo quos, numquam fugiat quae modi vitae quas optio.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore minus facilis et in exercitationem, maxime reiciendis ratione cumque omnis, quo saepe, quis odio consequatur nihil voluptatum quod. Assumenda, mollitia. Quasi?
+
+        </p>
+    </div> <!--chiusura div-->
+    <div class="book"> <!--Apertura div book-->
+        <h2>Storia</h2>
+        <img src="storia.png">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas quia ipsum vitae, placeat ducimus voluptatem assumenda illo accusamus. Distinctio sunt quae vero eligendi? Sequi aspernatur laborum perspiciatis dolorum facere incidunt.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur aut consectetur quidem unde ea dicta quae sint voluptatem, id quia, tempore ipsum voluptas fugiat quaerat accusantium temporibus maxime vel. Error.
+
+        </p>
+      </div> <!--chiusura div book-->
+    <div class="book"> <!--apertura book-->
+    <h2>narrativa</h2>
+    <img src="narrativa.png" alt="narrativa">
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis eveniet architecto et aspernatur nobis atque cumque nam excepturi, doloremque modi culpa, eius tenetur nihil in beatae perspiciatis aut deserunt quia!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum inventore expedita praesentium ab nesciunt quas dolorum, mollitia debitis modi nisi vel optio odit! Nihil vitae fugit porro velit commodi inventore?
+            </p>
+    </div> <!--Chiusura div book-->
+         <div class="book"> <!--apertura div book-->
+            <h2>matematica</h2>
+            <img src="matematica.png" alt="matematica">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse iste nisi animi dolor hic blanditiis minus, accusantium fugiat natus beatae illum ad mollitia illo. Quisquam officia officiis adipisci! Fugit, similique.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti dolorum eaque maiores voluptate quo at expedita quisquam, tempore odio blanditiis voluptas pariatur exercitationem voluptatibus veniam culpa hic nobis perferendis dignissimos.
+
+            </p>
+
+         </div> <!-- chiusura div book-->
+
+         <div class="book"> <!--apertura div book-->
+            <h2>Marketing</h2>
+            <img src="arte.png" alt="Marketing">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut magni dolorum nulla, ad iste ducimus odit atque voluptatibus amet consequatur voluptate harum veritatis vitae quibusdam totam illo ipsa non dolores?
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, nesciunt ipsam! Optio consectetur voluptatem, doloribus repellat velit impedit dolor rerum quidem? Nisi vero nesciunt mollitia alias modi voluptatibus minus aperiam.
+
+            </p>
+         </div> <!--chiusura div book-->
+  </div>  <!-- chiusura div container-->    
+</body>
+</html>
